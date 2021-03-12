@@ -17,7 +17,7 @@ import string
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv('/content/drive/MyDrive/Colab Notebooks/data.csv')
+df = pd.read_csv('data.csv')
 
 def remove_punctuations(text):
     for punctuation in string.punctuation:
