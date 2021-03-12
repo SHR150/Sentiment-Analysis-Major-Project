@@ -1,0 +1,7 @@
+streamlit
+pandas
+sklearn
+numpy
+tensorflow 
+nltk
+string
