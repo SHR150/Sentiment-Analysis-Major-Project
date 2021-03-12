@@ -4,4 +4,3 @@ sklearn
 numpy
 tensorflow 
 nltk
-string
